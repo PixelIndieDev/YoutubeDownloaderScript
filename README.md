@@ -7,6 +7,8 @@ Please note that yt-dlp is not developed by me.
 
 ## How to Use
 ### Running the Bat Files
+- Download [yt-dlp](https://github.com/yt-dlp/yt-dlp).
+- Put the yt-dlp file in a folder along with the bat files.
 - Open the desired bat file based on your requirement.
 - The file will prompt you to enter a link. Paste the YouTube link of the video or audio you wish to download.
 - If the color of the "Paste your link" text changes, it indicates that the link has been successfully inputted.
